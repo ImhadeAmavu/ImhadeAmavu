@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImhadeAmavu
-- 👀 I’m interested in UI/UX design
-- 🌱 I’m currently learning UI/UX using Figma
-- 💞️ I’m looking to collaborate on design projects
+- 👀 I’m interested in html, css and javascript
+- 🌱 I just joined a bootcamp to get started
+- 💞️ I’m looking to learning and utilizing my skills
 - 📫 How to reach me amavuimhade@gmail.com
 
 <!---
